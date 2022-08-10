@@ -1,0 +1,28 @@
+.btn{
+    background-color: black;
+    color: white;
+}
+
+.image{
+    width: 25rem;
+}
+
+.row{
+    margin: 100px 150px 100px 200px; 
+}
+
+
+.heading{
+    margin-bottom: 30px;
+}
+
+.text{
+    margin-bottom: 30px;
+}
+
+.login{
+    margin-right: 30px;
+}
+.row-a{
+    margin-top: 30px;
+}
